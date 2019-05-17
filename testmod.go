@@ -1,4 +1,4 @@
-//ff:
+//ff::
 package testmod
 
 import "fmt"
