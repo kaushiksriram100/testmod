@@ -2,8 +2,8 @@ package testmod
 
 import "fmt"
 
-func Hi(name string) string {
-	return fmt.Sprintf("hello, %s", name)
+func Hi(name string, age int) string {
+	return fmt.Sprintf("hello, %s and %d", name, age)
 }
 
 
